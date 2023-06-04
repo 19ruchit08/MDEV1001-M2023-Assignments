@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "MDEV1001-ACE1",
+            "database": "${workspaceFolder:MDEV1001-M2023-Assignments}/ACE1DB"
+        }
+    ]
+}
