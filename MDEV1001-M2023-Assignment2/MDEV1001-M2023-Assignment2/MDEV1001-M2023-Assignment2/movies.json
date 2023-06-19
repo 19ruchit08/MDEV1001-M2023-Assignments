@@ -1,0 +1,182 @@
+[
+  {
+    "movieID": 1,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "studio": "Twentieth Century Fox",
+    "criticsRating": 8.7
+  },
+  {
+    "movieID": 2,
+    "title": "The Matrix",
+    "studio": "Warner Bros. Pictures",
+    "criticsRating": 8.7
+  },
+  {
+    "movieID": 3,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "studio": "Twentieth Century Fox",
+    "criticsRating": 8.6
+  },
+  {
+    "movieID": 4,
+    "title": "Back to the Future",
+    "studio": "Universal Pictures",
+    "criticsRating": 8.5
+  },
+  {
+    "movieID": 5,
+    "title": "Alien",
+    "studio": "Twentieth Century Fox",
+    "criticsRating": 8.5
+  },
+  {
+    "movieID": 6,
+    "title": "Raiders of th Lost Ark",
+    "studio": "Paramount Pictures",
+    "criticsRating": 8.4
+  },
+  {
+    "movieID": 7,
+    "title": "Blade Runner",
+    "studio": "Warner Bros. Pictures",
+    "criticsRating": 8.1
+  },
+  {
+    "movieID": 8,
+    "title": "The Terminator",
+    "studio": "Orion Pictures",
+    "criticsRating": 8.1
+  },
+  {
+    "movieID": 9,
+    "title": "The Princess Bride",
+    "studio": "Twentieth Century Fox",
+    "criticsRating": 8
+  },
+  {
+    "movieID": 10,
+    "title": "Star Trek II: The Wrath of Khan",
+    "studio": "Paramount Pictures",
+    "criticsRating": 7.7
+  },
+  {
+    "movieID": 11,
+    "title": "Sholay",
+    "studio": "Sipply Films",
+    "criticsRating": 8.1
+  },
+  {
+    "movieID": 12,
+    "title": "The Lords of the Rings: The Return of the King",
+    "studio": "New Line Cinema",
+    "criticsRating": 9
+  },
+  {
+    "movieID": 13,
+    "title": "The Lords of the Rings: The Two Tower",
+    "studio": "New Line Cinema",
+    "criticsRating": 8.8
+  },
+  {
+    "movieID": 14,
+    "title": "Pirates of the Caribbean:Dead men tell no tales",
+    "studio": "Walt Disney Studio",
+    "criticsRating": 6.5
+  },
+  {
+    "movieID": 15,
+    "title": "Pirates of the Caribbean:The Curse of the Black Pearl",
+    "studio": "Walt Disney Studio",
+    "criticsRating": 8.1
+  },
+  {
+    "movieID": 16,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "studio": "Warner Bros. Pictures",
+    "criticsRating": 7.5
+  },
+  {
+    "movieID": 17,
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "studio": "Warner Bros. Pictures",
+    "criticsRating": 8.1
+  },
+  {
+    "movieID": 18,
+    "title": "San Andreas",
+    "studio": "New Line Cinema",
+    "criticsRating": 6.1
+  },
+  {
+    "movieID": 19,
+    "title": "Love and Monsters",
+    "studio": "21 Laps Entertainment",
+    "criticsRating": 6.9
+  },
+  {
+    "movieID": 20,
+    "title": "World Wr Z",
+    "studio": "Skydance Production",
+    "criticsRating": 7
+  },
+  {
+    "movieID": 21,
+    "title": "Godzilla: The King of the Monsters",
+    "studio": "Legendary Pictures",
+    "criticsRating": 6
+  },
+  {
+    "movieID": 22,
+    "title": "The Guardian's Quest",
+    "studio": "Stellar Studios",
+    "criticsRating": 8.2
+  },
+  {
+    "movieID": 23,
+    "title": "Midnight Echoes",
+    "studio": "Eclipse Entertainment",
+    "criticsRating": 7.9
+  },
+  {
+    "movieID": 24,
+    "title": "Thor",
+    "studio": "Marvel Studios",
+    "criticsRating": 7
+  },
+  {
+    "movieID": 25,
+    "title": "Iron Man",
+    "studio": "Marvel Studios",
+    "criticsRating": 7.9
+  },
+  {
+    "movieID": 26,
+    "title": "The Imitation Game",
+    "studio": "Graham Moore",
+    "criticsRating": 8
+  },
+  {
+    "movieID": 27,
+    "title": "Fast & Furious Presents: Hobbs & Shaw",
+    "studio": "Seven Bucks Productions",
+    "criticsRating": 6.5
+  },
+  {
+    "movieID": 28,
+    "title": "Rush Hour",
+    "studio": "Roger Birnbaum Productions",
+    "criticsRating": 7
+  },
+  {
+    "movieID": 29,
+    "title": "Shattered Trust",
+    "studio": "Darkwood Productions",
+    "criticsRating": 7.8
+  },
+  {
+    "movieID": 30,
+    "title": "Timeless Love",
+    "studio": "Evergreen Studios",
+    "criticsRating": 8.1
+  }
+]
