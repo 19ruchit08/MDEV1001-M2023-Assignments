@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="TitleLabel" type="id" />
+    <item name="MovieIDTextField" type="id" />
+    <item name="MovieIDLabel" type="id" />
+    <item name="EditMovieLabel" type="id" />
+    <item name="TitleTextField" type="id" />
+    <item name="StudioLabel" type="id" />
+    <item name="StudioTextField" type="id" />
+    <item name="GenresLabel" type="id" />
+    <item name="GenresTextField" type="id" />
+    <item name="DirectorsLabel" type="id" />
+    <item name="DirectorsTextField" type="id" />
+    <item name="WritersLabel" type="id" />
+    <item name="WritersTextField" type="id" />
+    <item name="ActorsLabel" type="id" />
+    <item name="ActorsTextField" type="id" />
+    <item name="LengthLabel" type="id" />
+    <item name="LengthTextField" type="id" />
+    <item name="ImageTView" type="id" />
+</resources>

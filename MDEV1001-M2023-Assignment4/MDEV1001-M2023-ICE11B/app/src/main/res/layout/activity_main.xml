@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+<!-- Linear Layout for Toolbar, Logout Button, and Add Button -->
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+
+    <!-- Logout Button -->
+    <Button
+        android:id="@+id/logoutBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X"
+        android:textSize="24sp"
+        android:onClick="logoutClicked"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@color/colorPrimary"
+        android:padding="8dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp" />
+
+    <!-- Toolbar with label -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:elevation="4dp">
+
+        <!-- Add a TextView as the label -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Favourite Movies"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- Add Button -->
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:backgroundTint="#3851DC"
+        android:onClick="addMovieClicked"
+        android:padding="8dp"
+        android:text="Add"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+</LinearLayout>
+
+<!-- RecyclerView to display movies -->
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/recyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:padding="8dp"
+    android:clickable="true"
+    android:clipToPadding="false"
+    android:overScrollMode="never"
+    android:scrollbars="vertical"
+    tools:listitem="@layout/item_movie"/>
+
+</LinearLayout>
